@@ -25,8 +25,6 @@ First, install the required packages using pip:
 
 3. **Visualize feature importance:**
 
-4. **(Optional) Notebooks:**
-Explore analysis in Jupyter notebooks if available.
 
 ## Results
 
@@ -37,8 +35,4 @@ Explore analysis in Jupyter notebooks if available.
 ## License
 
 This project is licensed under the MIT License.
-
-## Contact
-
-Created by **Aiza Anjum**  
-GitHub: [https://github.com/Aizaanjum5](https://github.com/Aizaanjum5)  
+  
